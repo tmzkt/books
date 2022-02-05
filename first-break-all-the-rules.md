@@ -45,7 +45,7 @@
   1. know what talents you are looking for - what fits with company, team, and your management style. To make it easier, choose 1 talent from each cateogry to evaluate
   2. study your best - learn from your top performers
 ## Chapter 4: The Second Key: Define the Right Outcomes
-- How to retain control and focus on perfomrance while you cannot force everyone to perform in the same way? Define the right outcomes and then let each person find his own route towards those outcomes.
+- How to retain control and focus on performance while you cannot force everyone to perform in the same way? Define the right outcomes and then let each person find his own route towards those outcomes.
 - Rules of thumb
   1. Don't break the bank - employees must follow certain required steps for all aspects of their role that deal with accuracy or safety
   2. Standards rule - employees must follow required steps when those steps are part of a company or industry standard
@@ -69,4 +69,30 @@
   2. Find a complementary partner (match up one person's valleys with another's peaks)
   3. Find an alternative role
 ## Chapter 6: The Fourth Key: Find the Right Fit
+- Employees inevitably want to "climb the ladder" and get promoted in their careers. But then, most employees are promoted to their level of incompetence.
+- One rung doesn't necessarily lead to another
+- Create heroes in every role - so that employees aren't tempted to climb into the next rung if it's not a good fit. Use broadbanding (broad bands of pay) to reward for excellence.
+- Varied experiences do not make the employee more attractive
+- Great managers level the playing field - create an environment where money and prestige are spread throughout
+- Great managers hold up the mirror - 1. give constant feedback 2. each session began with a brief review of past performance 3. give feedback in private, one on one
+- Great managers create a safety net - use trial periods to see if employee a good fit
+- Use tough love - balance high performance standards and the need to care
 ## Chapter 7: Turning the Keys: A Practical Guide
+- The art of interviewing for talent
+  1. Make sure the talent interview stands alone - let candidate know you that part of the interview will be about discovering talents
+  2. Ask a few open-ended questions and then keep quiet - believe these un-aided responses to the questions
+  3. Listen for specifics - if the candidate is specific, it is likely a recurring behavior (talent). If they are not specific, it is likely just theory.
+  4. Clues to talent - 1. ask what roles they have been able to learn quickly - this will tell you how quickly they learn 2. ask what greatest personal satisfaction is, what do they find fulfilling - this will tell you what they can consistently do week to week
+  5. Know what to listen for - keep track of employee performance and how they answered interview questions and look for patterns to continue selecting for talent.
+- 4 characteristics common to the "performance management" routines of great managers
+  1. The routine is simple
+  2. The routine forces frequent interaction - don't have to drop "bombs" on employees or surprise them, easier to remember examples of perfomrance, it gets reinforced
+  3. The routine is focused on the future
+  4. The routine askss the employee to keep track of his own performance and learnings - rather than employee being passive, make them accountable, the point is self-discovery. Research revelas students stay in school longer and learn more if they are expected to record their own progress.
+- Master Keys - What can a company do to create a friendly climate for great managers
+  1. Keep the focus on outcomes (define role using outcomes, find a way to measure outcomes, hold managers accountable for employees' responses to the 12 questions)
+  2. Value world-class performance in every role (within roles, set up levels of achievement and reward with plaques/certificates/displomas, set up broadband compensation plans, celebrate personal bests)
+  3. Study your best (build talent profile of best performers, revise training to incorporate what you learn, set up internal "university")
+  4. Teach the language of great managers (teach 4 keys of great managers, change job descriptions to reflect talent, revise training to train for skills and knowledge and not talents, send most talented to training for skills and knowledge to complement their talents, don't send least talented to be "fixed", give employee's feedback, use great manager's "performance management" routine)
+
+![The Gallup Path](https://github.com/[username]/[reponame]/blob/[branch]/pics/galluppath.jpg?raw=true)
