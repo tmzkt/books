@@ -32,6 +32,18 @@
   3. motivate the person...by focusing on strengths...not by helping him identify and overcome his weaknesses
   4. develop the person...by finding the right fit...not by helping him learn and get promoted
 ## Chapter 3: The First Key: Select for Talent
+- Talent is a recurring feeling, thought, or behavior that can be used in an effective way
+- Every job lends itself to a unique set of talents and, therefore, requires a person with those talents to fill the role.
+- Talent can’t be taught (e.g. empathy, confidence). Talents are developed at a young age and can’t be changed after your teenage years because of the way the brain works.
+- You need to hire people that already possess the necessary talents for the position.
+- Skills vs Knowledge vs Talents - Skills and Knowledge can be taught. 
+- 3 categories of talents:
+- Striving (e.g. ambition, altruism, competitiveness, and mastery)
+- Thinking (e.g. discipline, flexibility, focus, logic)
+- Relating (e.g. socializing, empathy, trust, confrontation)
+- To find great talent, two tips:
+  1. know what talents you are looking for - what fits with company, team, and your management style. To make it easier, choose 1 talent from each cateogry to evaluate
+  2. study your best - learn from your top performers
 ## Chapter 4: The Second Key: Define the Right Outcomes 
 ## Chapter 5: The Third Key: Focus on Strengths 
 ## Chapter 6: The Fourth Key: Find the Right Fit
