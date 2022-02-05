@@ -95,4 +95,4 @@
   3. Study your best (build talent profile of best performers, revise training to incorporate what you learn, set up internal "university")
   4. Teach the language of great managers (teach 4 keys of great managers, change job descriptions to reflect talent, revise training to train for skills and knowledge and not talents, send most talented to training for skills and knowledge to complement their talents, don't send least talented to be "fixed", give employee's feedback, use great manager's "performance management" routine)
 
-![The Gallup Path](https://github.com/[username]/[reponame]/blob/[branch]/galluppath.jpg?raw=true)
+![The Gallup Path](galluppath.jpg?raw=true)
