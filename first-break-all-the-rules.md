@@ -38,13 +38,35 @@
 - You need to hire people that already possess the necessary talents for the position.
 - Skills vs Knowledge vs Talents - Skills and Knowledge can be taught. 
 - 3 categories of talents:
-- Striving (e.g. ambition, altruism, competitiveness, and mastery)
-- Thinking (e.g. discipline, flexibility, focus, logic)
-- Relating (e.g. socializing, empathy, trust, confrontation)
+  1. Striving (e.g. ambition, altruism, competitiveness, and mastery)
+  2. Thinking (e.g. discipline, flexibility, focus, logic)
+  3. Relating (e.g. socializing, empathy, trust, confrontation)
 - To find great talent, two tips:
   1. know what talents you are looking for - what fits with company, team, and your management style. To make it easier, choose 1 talent from each cateogry to evaluate
   2. study your best - learn from your top performers
-## Chapter 4: The Second Key: Define the Right Outcomes 
-## Chapter 5: The Third Key: Focus on Strengths 
+## Chapter 4: The Second Key: Define the Right Outcomes
+- How to retain control and focus on perfomrance while you cannot force everyone to perform in the same way? Define the right outcomes and then let each person find his own route towards those outcomes.
+- Rules of thumb
+  1. Don't break the bank - employees must follow certain required steps for all aspects of their role that deal with accuracy or safety
+  2. Standards rule - employees must follow required steps when those steps are part of a company or industry standard
+  3. Don't let the creed overshadow the message - required steps are useful only if they do not obscure the desired outcome
+  4. There are no steps leading to customer satisfaction - required steps only prevent dissatisfaction. They cannot drive customer satisfaction.
+- To define the right outcomes, think 1. what is right for your customers? 2. what is right for your company? 3. what is right for the individual?
+## Chapter 5: The Third Key: Focus on Strengths
+- To develop a stronger workplace, you have to reject the concept of “transformation,” build up talents, and navigate around weaknesses.
+- Focus on each person's strengths and manage around his weaknesses. Don't try to fix the weaknesses. Help each person become ore of who he already is.
+- A great manager can describe, in detail, the unique talents of each of his or her people
+- Great managers identify talents and help cultivate those talents in 3 ways
+  1. Casting is everything - position each person so that you are paying her to do what she is naturally wired to do. Cast her in the right role.
+  2. Manage by exception - treat each person as he would like to be treated. Do this by asking about goals and preferences to each individual.
+  3. Spend the most time with their best people - the fairest thing to do, the best way to learn, and the only way to stay focused on excellence
+- Top performers have the most potential for growth
+- To manage around a weakness, ask
+  1. is the poor performance trainable and due to a lack of skills or knowledge? IF so, train them.
+  2. Is the nonperformance caused by the mamager himself tripping the wrong trigger? What motivates the person?
+- 3 approaches manage around a weakness
+  1. devise a support system (can't remember names - get rolodex, can't count - bring in packages with no counting involved)
+  2. Find a complementary partner (match up one person's valleys with another's peaks)
+  3. Find an alternative role
 ## Chapter 6: The Fourth Key: Find the Right Fit
 ## Chapter 7: Turning the Keys: A Practical Guide
