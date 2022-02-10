@@ -1,9 +1,12 @@
 # Turn the Shiop Around!
 **Louis David Marquet (2012)**
 - A true story of turning followers into leaders
-- Based on in-depth interviews by the Gallup Organization of over 80,000 managers in over 400 companies - the largest study of its kind ever undertaken
 
 ## Part 1: Starting Over
+### 1. Pain
+- Note 1
+### 2. Business as Usual
+### 3. Change of Course
 
 ## Part 2: Control
 
