@@ -13,8 +13,35 @@
 - People get comfortable with being a cog "Hey, I was only doing what I was told"
 ### 3. Change of Course
 - Great leadership is giving a specific goal, but not telling you how to do it.
+### 4. Frustration
+- Be as curious as possible with people in your organization
+- When becoming a new leader, interview the people and ask questions like "what would you do if you were me?", "what are your impediments?", "what should be changed?"
+### 5. Call to Action
+- Instead of doing assigned technical paperwork, he just spent time with the people
+- People on the ship were frustrated. They wanted to change things but weren't being heard.
+- They adopted a hunker down model where there primary goal was do the minimum and avoid mistakes.
+- One sailor's request for vacation needed to be singed by 7 people! And it was sitting in someone's inbox! The system had failed, not the people.
+### 5. "Whatever they tell me to do!"
+- The problem wasn't an absence of leadership. It was too much leadership of the wrong kind, the leader-follower kind.
+- The costs of leader-follower were observable in the passivity of sailors, the lack of initiative, waiting for others, and the department head paralysis without the CO at meetings.
+### 7. "I relieve you!"
+- 1. the crew wanted change, 2. a supportive chain of command allowed freedom, 3. his lack of knowledge of the ship prevented him from falling into old habits of telling people what to do
+- Ships are evaluated based on the mistakes they make, "Your reward is no punishment"
+- Focusing on avoiding mistakes takes our focus away from becoming truly exceptional.
+- ACHIEVE EXCELLENCE, DON'T JUST AVOID ERRORS is a mechanism for CLAIRY (book to read is Simon Sinek's "Start with Why")
 ## Part 2: Control
-
+### 
+### 
+### 
+### 
+### 
 ## Part 3: Competence
-
+### 
+### 
+### 
+### 
 ## Part 4: Clarity
+### 
+### 
+### 
+### 
