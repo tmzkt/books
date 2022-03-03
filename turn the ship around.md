@@ -30,18 +30,49 @@
 - Focusing on avoiding mistakes takes our focus away from becoming truly exceptional.
 - ACHIEVE EXCELLENCE, DON'T JUST AVOID ERRORS is a mechanism for CLAIRY (book to read is Simon Sinek's "Start with Why")
 ## Part 2: Control
-### 
-### 
-### 
-### 
-### 
+### 8. Change, in a Word
+- Find the genetic code and rewrite it - distribute control and decision making, but new decision makers will need higher technical knowledge and clearer sense of organization purpose
+### 9. "Welcome Aboard Santa Fe!"
+- Act your way to new thinking - change their behavior first and let the thinking follow
+### 10. Under Way on Nuclear Power
+- Short, early conversations make efficient work - early feedback and provides clarity which saves hours of time
+### 11. "I Intend To..."
+- Use "I Intend to..." to turn passive followers into active leaders - get everyone thinking about the problem
+### 12. Up Scope!
+- Resist the urge to provide solutions - this gives room for others to think and suggest solutions, getting them engaged
+### 13. Who's Responsible?
+- Eliminate top-down monitoring systems - everyone is responsisble for their performance and the performance of their departments
+### 14. "A New Ship"
+- Think out loud - makes it easier superiors to know things are running smoothly and so superiors don't chime in, also thinking out loud imparts wisdom on others
+### 15. "We Have a Problem"
+- Embrace the Inspectors - everyone learns a lot and improves
 ## Part 3: Competence
-### 
-### 
-### 
-### 
+### 16. "Mistakes Just Happen!"
+- Take deliberate action - saying what you will do before you do it allows you to check yourself, others to check you, and prevent inevitable mistakes before they happen
+### 17. "We Learn"
+- We Learn (everywhere, all the time) - instill a learner mentality in everyone to learn and increase competenece
+### 18. "Under Way for San Diego"
+- Don't Brief, Certify - briefing is passive for everyone but the briefer. Certifications have participants be active which increases likelihood they will prepare and have higher intellectual involvement
+### 19. All Present and Accounted For
+- Continually and consistently repeat the message - old habits die hard, continue to repeat new ways of doing things
+### 20. Final Preparations
+- Specify Goals, not methods - people are freed from following prescribed way of doing things, to innovate
 ## Part 4: Clarity
-### 
-### 
-### 
-### 
+### 21. Under Way for Deployment
+- Build Trust and Take Care of Your People - not protecting them from their own behavior, but giving them every tool and advantage to achieve their aims on the job and beyond - in life
+### 22. A Remembrance of War
+- Use your legacy for inspiration - keep sense of purpose alive by talking about them, embedding them in the organization, and making sure everyone understands them
+### 23. Leadership at Every Level
+- Using Guiding Principles for Decision Criteria - follow the principles and values of an organization and use them to make decisions
+### 24. A Dangerous Passage
+- Use immediate recognition to reinforce desired behaviors - not thirty minutes. immediate. people can leave organizations before they receive the recognition. don't put employees against each other with "top 10%" awards, use a common external goal like "better than 2 minutes" and award everyone who achieves it.this creates more teamwork and less competition.
+### 25. Looking Ahead
+- Begin with the end in mind - use concrete measurable goals
+### 26. Combat Effectiveness
+- Encourage a Questioning Attitude over Blind Obedience - allows everyone to catch mistakes and make good decisions
+### 27. Homecoming
+- To institute the leader-leader model, 1. identify where excellence is 2. what decisions do people responsible for the interfaces of an organization need to make to acheive excellence 3. Understand what it takes for those employees to make those decisions
+### 28. A New Method of Resupplying
+- Don't empower, emancipate - don't empower them because you are not the source of power, the only thing stopping them is that we are preventing them from coming out, so free them to allow talents to emerge
+### 29. Ripples
+- "Give control, create leaders"
